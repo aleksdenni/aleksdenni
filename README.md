@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Hi, I'm Aleks 👋
+Java developer with no commercial experience. I have knowledge in backend development on Java.
+I've been worked mostly with Java SE , also worked with Spring (web app).
+I’m currently learning Spring Boot.
 <!--
 **aleksdenni/aleksdenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
