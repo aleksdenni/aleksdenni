@@ -1,5 +1,5 @@
 ### Hi, I'm Aleks 👋
-Java developer without commercial experience. I have knowledge in backend development on Java.
+Java developer. I have knowledge in backend development on Java.
 I've been used mostly with Java SE, and also used with Spring (web app).
 I’m currently learning Spring Boot.
 <!--
