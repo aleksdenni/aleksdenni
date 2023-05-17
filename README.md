@@ -1,5 +1,5 @@
 ### Hi, I'm Aleks 👋
-I'm a Java developer with a strong foundation in Java SE and experience with Spring for web application development, I'm continuously expanding my skills. Currently, I'm actively involved in a team pet project, where I'm gaining valuable hands-on experience similar to commercial development. Additionally, I'm focusing on enhancing my expertise in Spring Boot.
+I'm a Java developer with a strong foundation in Java and experience with Spring for web application development, I'm continuously expanding my skills. Currently, I'm actively involved in a team pet project, where I'm gaining valuable hands-on experience similar to commercial development. Additionally, I'm focusing on enhancing my expertise in Spring Boot.
 <!--
 **aleksdenni/aleksdenni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
